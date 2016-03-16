@@ -28,7 +28,7 @@
 	color: white;
 }
 .navbar-header .navbar-brand:hover {
-	color: #00e68a;
+	color: #eee;
 }
 .navbar-header .navbar-brand i {
 	color: #00e68a;
@@ -36,7 +36,7 @@
 }
 .collapse.navbar-collapse li:hover {
 	background-color: #14141f;
-	border-radius: 10px;
+	border-radius: 2px;
 }
 .nav li a {
 	color: white!important;
@@ -93,6 +93,9 @@ a:hover {
 .dis-in {
 	display: inline-block;
 }
+h4, h5, h6 {
+	color: #A8A8A8;
+}
 /*background themes*/
 
 .bg-green {
@@ -116,6 +119,8 @@ a:hover {
 	background-color: #3c3c5d;
 	padding: 40px 0px;
 }
+
+
 .bg-white a {
 	color: black;
 	font-style: bold;
@@ -168,9 +173,6 @@ footer {
 	text-decoration: none;
 	color: #F8F8F8;
 }
-h4, h5, h6 {
-	color: #A8A8A8;
-}
 @media (max-width: 768px) {
 	.bg-white img {
 		width: 100px;
@@ -188,4 +190,9 @@ h4, h5, h6 {
 	.mt-10 {
 		margin-top: 10%;
 	}
+}
+/*Control Fx*/
+.bounceIn {
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
 }
