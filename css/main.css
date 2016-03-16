@@ -13,7 +13,7 @@
 .clearfix:after {
   clear: both;
 }
-
+/*Navegador*/
 #mainNav {
 	padding: 10px 0px;
 	background-color: #28283e;
@@ -42,7 +42,7 @@
 	color: white!important;
 	font-size: 15px;
 }
-header {
+#life-of-pi {
 	background-image: url(../images/slider/bg1.jpg);
 	position: relative;
     width: 100%;
@@ -59,6 +59,13 @@ header {
     padding-bottom: 10%;
     text-align: left;
 }
+/*utilidades*/
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
 .icon-contact {
 	color: white;
 	font-size: 30px;
@@ -70,6 +77,21 @@ header {
 }
 .txt-white {
 	color: #F8F8F8;
+}
+.pd-10 {
+	padding: 10% 0%;
+}
+.mrg-right-5 {
+	margin-right: 15px;
+}
+.fr {
+	float: right;
+}
+.ptn-rel {
+	position: relative;
+}
+.dis-in {
+	display: inline-block;
 }
 /*background themes*/
 
@@ -159,5 +181,11 @@ h4, h5, h6 {
 		margin-right: 5px;
 		margin-top: 20px;
 		font-size: 10px;
+	}
+	.bg-green .pd-10 {
+		padding-top: 20%;
+	}
+	.mt-10 {
+		margin-top: 10%;
 	}
 }
