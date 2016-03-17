@@ -196,3 +196,76 @@ footer {
   animation-duration: 10s;
   animation-iteration-count: infinite;
 }
+.gray-j{
+	background-color: #F0F0F1;
+}
+.verde-j{
+	margin-top: 78px;
+	background-color: #2ECC71;
+	height: auto;
+}
+.blanc{
+	color: #fff;
+}
+.mar-1j{
+	margin:1em;
+}
+.mar-2j{
+	margin: 2em;
+}
+.pd-cont1{
+	padding: 50px 10%; 
+}
+.pd-cont2{
+	padding: 10px 10%;
+}
+.burbuja{
+	border: solid 4px #fff;
+	width: 14em;
+	height: 14em;
+	border-radius: 100%; 
+	margin-left: 2em; 
+}
+.lineal{
+	display: inline-block;
+}
+.icono-j{
+	border-radius: 100%;
+}
+.fb-j{
+	background-color: #4F7DD4;
+	padding: 0.6em 0.8em;
+	margin-bottom: 3em;
+}
+.ggl-j{
+	background-color: #DC422B;
+	padding: 0.5em;
+	margin-bottom: 3em;
+}
+.twt-j{
+	background-color: #5BCEFF;
+	padding: 0.5em 0.6em;
+	margin-bottom: 3em;
+}
+.in-j{
+	background-color: #21A6D8;
+	padding: 0.5em 0.6em;
+	margin-bottom: 3em;
+}
+.bg-grisj{
+	background-color: #939393;
+}
+.ico-grande{
+	padding: 0.5em;
+}
+.mar-tj{
+	margin-top: 0.5em;
+}
+.raya-j{
+	border-bottom: solid #F5F5F5 2px;
+}
+.linea-v{
+	padding-left: 1em;
+	border-left: solid 5px #F5F5F5; 
+	margin-bottom: 3em;
+}
